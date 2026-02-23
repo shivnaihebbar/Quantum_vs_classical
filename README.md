@@ -87,7 +87,6 @@ Both classical and quantum generators should appear close to uniform, though cla
 ## Author
 
 **Shivani Hebbar**
-MSc Data Science
 
 ## Acknowledgment
 
